@@ -1,0 +1,27 @@
+#JimmyJim
+FollowingCount    : 2
+FollowingUser     : Chanon00
+|                   Atom1234
+
+#Paul555
+FollowingCount    : 1
+FollowingUser     : Atom1234
+
+#NinetyNine
+FollowingCount    : 1
+FollowingUser     : AJSallyG
+
+#AJSallyG
+FollowingCount    : 4
+FollowingUser     : NinetyNine
+|                   Atom1234
+|                   Paul555
+|                   Chanon00
+
+#Atom1234
+FollowingCount    : 4
+FollowingUser     : NinetyNine
+|                   AJSallyG
+|                   Chanon00
+|                   Paul555
+

@@ -1,0 +1,48 @@
+#frozen
+Username      : Atom1234
+Date          : 10/5/2021
+Genre         : 5 5 5 5 5 5
+Like          : 1
+Rating(1-10)  : 10.0
+Detail        : goodgoodgoodgood
+
+#The Grinch
+Username      : JimmyJim
+Date          : 21/5/2021
+Genre         : 0 3 5 5 5 5
+Like          : 0
+Rating(1-10)  : 9.0
+Detail        : er along with all his amazing contraptions (I won't complain about Cindy-Lou because in both this and the 2000s version, her character completely changed). There could've been more songs but luckily, they still kept "Welcome Christmas" and "You're a Mean One"(WARNING: remix may take a few days to get used to) which is still respectful to its predecessor.  Overall, despite its flaws, I enjoyed this movie and had fun watching it, Flaws may be noticeable but it all depends on what YOU think.
+
+#Funny
+Username      : ninekub
+Date          : 8/5/2021
+Genre         : 4 4 4 4 4 4
+Like          : 0
+Rating(1-10)  : 6.0
+Detail        : Funny
+
+#Nibba
+Username      : Atom1234
+Date          : 8/5/2021
+Genre         : 1 1 1 1 1 1
+Like          : 0
+Rating(1-10)  : 4.0
+Detail        : gfhjkl
+
+#Inception
+Username      : Chanon00
+Date          : 18/10/2020
+Genre         : 0 2 4 4 4 4
+Like          : 15
+Rating(1-10)  : 5.0
+Detail        : wooooow bro u gotta see this
+
+#Inception
+Username      : NinetyNine
+Date          : 10/1/2021
+Genre         : 0 2 4 4 4 4
+Like          : 15
+Rating(1-10)  : 9.0
+Detail        : helloooooooooooooo so go
+
